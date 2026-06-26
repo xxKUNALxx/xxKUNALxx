@@ -1,42 +1,127 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:58a6ff&height=120&section=header" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=500&lines=Kunal+Sharma" alt="Kunal Sharma" />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=full-stack+developer;open+to+opportunities+·+2026" alt="subtitle" />
-<br/>
-![Email](https://img.shields.io/badge/Gmail-kunal212947%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=161b22)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-kunal-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)
-![GitHub](https://img.shields.io/badge/GitHub-kunal-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)
+# <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Kunal%20Sharma&fontSize=50&fontAlign=50&fontAlignY=38&animation=fadeIn&color=gradient"/>
+
+### 💻 Full Stack Developer • 🎮 Gaming Content Creator • 🚀 Open to Internships
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Creating+Gaming+Content;Always+Learning+Something+New"/>
+
 </div>
+
 ---
-<div align="center">
-`languages`
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=239120)
-`frontend`
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![HTML5](https://img.shields.io/badge/HTML5%2FCSS-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-`backend & db`
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-`tools & infra`
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
-![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-</div>
+
+# 👋 About Me
+
+I'm **Kunal Sharma**, a Computer Science student passionate about building beautiful web applications and creating gaming content.
+
+* 🌱 Learning **Node.js**, **Express**, and **MongoDB**
+* ⚛️ Love building with **React** & **Tailwind CSS**
+* 🎮 Gaming Content Creator
+* 🚀 Currently working on full-stack projects
+* 💼 Looking for internship opportunities
+
 ---
+
+# 🚀 Featured Projects
+
+### 🍿 K-Anime
+
+Modern Anime Streaming Platform
+
+**Tech**
+
+React • Tailwind CSS • API Integration
+
+---
+
+### 🎬 Cinemania
+
+Movie Discovery Website
+
+**Tech**
+
+React • TMDB API • Responsive UI
+
+---
+
+### 🌐 Portfolio Website
+
+Personal Developer Portfolio
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=xxKUNALxx&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxKUNALxx&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xxKUNALxx&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xxKUNALxx&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/xxKUNALxx">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kunal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kunal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58" height="160"/>
+
+### ⭐ Thanks for visiting my profile!
+
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
