@@ -14,41 +14,12 @@
 
 I'm **Kunal Sharma**, a Computer Science student passionate about building beautiful web applications and creating gaming content.
 
-* 🌱 Learning **Node.js**, **Express**, and **MongoDB**
-* ⚛️ Love building with **React** & **Tailwind CSS**
 * 🎮 Gaming Content Creator
 * 🚀 Currently working on full-stack projects
 * 💼 Looking for internship opportunities
 
 ---
 
-# 🚀 Featured Projects
-
-### 🍿 K-Anime
-
-Modern Anime Streaming Platform
-
-**Tech**
-
-React • Tailwind CSS • API Integration
-
----
-
-### 🎬 Cinemania
-
-Movie Discovery Website
-
-**Tech**
-
-React • TMDB API • Responsive UI
-
----
-
-### 🌐 Portfolio Website
-
-Personal Developer Portfolio
-
----
 
 # 💻 Tech Stack
 
